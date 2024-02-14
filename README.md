@@ -1,6 +1,6 @@
 ### Hi, I'm Bruce Migeri 👋
 
-- 🖥️ I've been coding in primarily Go and Python for a while
+- 🖥️ I've been coding primarily in Go and Python for a while
 - 🦀 I’m learning Rust and DevOps at the moment
 - 🌱 I’m currently working on backend development
 
