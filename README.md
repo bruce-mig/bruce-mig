@@ -2,7 +2,7 @@
 
 - 🖥️ I've been coding in primarily Go and Python for a while
 - 🦀 I’m learning Rust and DevOps at the moment
-- 🔭 I’m currently working on backend development
+- 🌱 I’m currently working on backend development
 
 <!--
 **bruce-mig/bruce-mig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
