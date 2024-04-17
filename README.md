@@ -1,8 +1,8 @@
 ### Hi, I'm Bruce Migeri 👋
 
-- 🖥️ I've been coding primarily in Go and Python for a while
-- 🦀 I’m learning Rust and SpringBoot at the moment
-- 🌱 I’m currently working on backend development
+- 🖥️ I've been coding primarily in Go, Java and Python for a while
+- 🦀 I’m learning Rust and C++ at the moment
+- 🌱 I’m currently working on backend development.
 
 <!--
 **bruce-mig/bruce-mig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
