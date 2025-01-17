@@ -1,7 +1,7 @@
 ### Hi, I'm Bruce Migeri 👋
 
-- 🖥️ I've been coding primarily in Go, Java and Python for a while
-- 🦀 I’m learning Rust and C++ at the moment
+- 🖥️ I've been coding primarily in Go, Java and C/C++ for a while
+- 🦀 I’m learning Rust and Elixir at the moment
 - 🌱 I’m currently working on backend development.
 
 <!--
